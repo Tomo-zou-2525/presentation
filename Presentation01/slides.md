@@ -155,9 +155,9 @@ layoutClass: gap-16
 ## **DXとは、部署や部門単位での業務効率化とは異なり、組織的に、明確な行動指針をもって、顧客体験に沿った改善活動を継続して行うことである** 
 
 ---
-layout: image-right
-image: image01.png
+layout: center
 ---
+
 
 ## ①DXとは：ビジネスモデルの理解
 <br>
